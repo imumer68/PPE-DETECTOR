@@ -3,5 +3,4 @@ ultralytics
 opencv-python
 pillow
 numpy
-ffmpeg
 tempfile
