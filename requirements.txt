@@ -1,6 +1,6 @@
 streamlit
 ultralytics
-opencv-python
+opencv-python~=4.10.0.82
 pillow
 numpy
-tempfile
+tempfile~=5.0.0
